@@ -47,7 +47,6 @@ This repository contains a Jupyter Notebook (`code.ipynb`) and dataset for train
    ```bash
    jupyter notebook code.ipynb
    ```
-   or upload to [Google Colab](https://colab.research.google.com/) and run all cells.
 
 ---
 
@@ -55,8 +54,6 @@ This repository contains a Jupyter Notebook (`code.ipynb`) and dataset for train
 - Data preprocessing and augmentation (rescaling, rotation, flips).
 - Building a CNN using Keras/TensorFlow.
 - Training the model with training and validation splits.
-- Plotting:![MODEL ACCURACY AND LOSS](image.png)
-
 ---
 
 ## 📊 Results / Insights
