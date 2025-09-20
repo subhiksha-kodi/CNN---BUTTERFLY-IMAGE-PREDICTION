@@ -4,6 +4,12 @@ This repository contains a Jupyter Notebook (`code.ipynb`) and dataset for train
 
 ---
 
+## 🌐 Try the App
+
+You can interact with the trained model using the Gradio app hosted on Hugging Face Spaces:  
+
+👉 [Butterfly Classifier - Gradio App](https://huggingface.co/spaces/subhiksha-kodi/CNN-PROJECT-BUTTERFLY-IMAGE-CLASSIFICATION)
+
 ## 📂 Project Structure
 ```
 .
